@@ -100,7 +100,6 @@ ip,hostname
 118.35.209.31,N/A
 118.70.82.36,N/A
 118.99.103.138,N/A
-119.100.145.94,N/A
 119.186.253.144,N/A
 119.205.124.64,N/A
 119.236.179.133,n119236179133.netvigator.com
@@ -158,6 +157,7 @@ ip,hostname
 129.21.233.6,gan-1248-mac-j0.cad.rit.edu
 129.21.233.68,gan-1248-mac-j1.cad.rit.edu
 12.97.133.84,N/A
+130.162.136.123,i5kvm.139771.xyz
 130.180.58.237,ip-130-180-058-237.um40.pools.vodafone-ip.de
 130.237.67.43,pool067-43.speech.kth.se
 130.255.153.87,staticline-130-255-153-87.toya.net.pl
@@ -187,7 +187,6 @@ ip,hostname
 141.2.163.40,pikvm.fb01.uni-frankfurt.de
 142.112.195.159,bras-base-nbtnon6403w-grc-01-142-112-195-159.dsl.bell.ca
 142.112.195.36,bras-base-nbtnon6403w-grc-01-142-112-195-36.dsl.bell.ca
-142.126.100.165,bras-base-orlnon0608w-grc-35-142-126-100-165.dsl.bell.ca
 142.126.125.138,bras-base-odsson0101w-grc-09-142-126-125-138.dsl.bell.ca
 14.215.162.114,r1-guangzhou-dev.glkvm.cn
 14.215.162.120,N/A
@@ -375,6 +374,7 @@ ip,hostname
 188.246.4.169,pikvm.lost-city.de;turtle.lost-city.de
 188.62.207.25,25.207.62.188.dynamic.cust.swisscom.net
 188.63.198.221,221.198.63.188.dynamic.cust.swisscom.net
+189.162.43.129,dsl-129-43-162-189-dynamic.prod-infinitum.com.mx
 189.162.59.201,dsl-201-59-162-189-dynamic.prod-infinitum.com.mx
 189.175.98.150,dsl-150-98-175-189-dynamic.prod-infinitum.com.mx
 190.115.197.21,N/A
@@ -623,6 +623,7 @@ ip,hostname
 45.45.224.211,pikvm.sjc1.kasuminetworks.com
 45.50.84.135,syn-045-050-084-135.res.spectrum.com
 46.110.17.233,unnamed-static.grtwmiaa.metronetinc.net
+46.114.18.218,dynamic-046-114-018-218.46.114.pool.telefonica.de
 46.124.58.180,046124058180.public.t-mobile.at
 46.124.97.146,046124097146.public.t-mobile.at
 46.138.254.189,N/A
@@ -638,6 +639,7 @@ ip,hostname
 47.101.223.187,N/A
 47.106.201.8,N/A
 47.107.250.217,glkvm.cn
+47.107.38.56,glkvm.cn
 47.109.178.85,N/A
 47.146.178.228,47-146-178-228.fdr01.hnbh.ca.ip.frontiernet.net
 47.146.217.71,47-146-217-71.fdr01.lapn.ca.frontiernet.net
@@ -825,6 +827,7 @@ ip,hostname
 74.15.36.49,bras-base-clbaon0201w-grc-69-74-15-36-49.dsl.bell.ca
 74.83.1.12,ip-74-83-1-12.dynamic.fuse.net
 74.83.8.229,ip-74-83-8-229.dynamic.fuse.net
+74.88.239.165,ool-4a58efa5.dyn.optonline.net
 75.103.139.226,75-103-139-226.ccrtc.com
 75.129.73.228,syn-075-129-073-228.res.spectrum.com
 75.146.234.17,75-146-234-17-Philadelphia.hfc.comcastbusiness.net
@@ -1005,7 +1008,6 @@ ip,hostname
 91.154.69.117,91-154-69-117.elisa-laajakaista.fi;vnkvserver.us.to
 91.175.49.185,91-175-49-185.subs.proxad.net
 91.196.198.71,ipkvm1.1cloudlab.net
-91.200.32.74,N/A
 91.200.32.75,N/A
 91.200.42.115,none
 91.221.205.32,superbrian.fhd.de
