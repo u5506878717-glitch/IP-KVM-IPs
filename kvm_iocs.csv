@@ -16,6 +16,7 @@ ip,hostname
 104.225.250.146,hosted-by.fiberhub.com
 104.225.251.26,104-225-251-hosted-by.fiberhub.com
 104.234.224.221,104.234.224.0-24.bbhost.com.br
+104.247.187.231,104.247.187.231.marsdatacenter.net
 104.4.131.146,104-4-131-146.lightspeed.nworla.sbcglobal.net
 104.52.203.221,104-52-203-221.lightspeed.tulsok.sbcglobal.net
 106.249.166.219,N/A
@@ -74,7 +75,7 @@ ip,hostname
 112.186.212.92,N/A
 112.186.44.114,N/A
 113.102.33.148,N/A
-113.20.0.120,clanxie.life
+113.20.0.120,N/A
 113.22.108.148,N/A
 113.231.69.62,N/A
 113.239.64.77,N/A
@@ -111,7 +112,6 @@ ip,hostname
 124.132.65.221,N/A
 124.144.197.48,124-144-197-48.rev.home.ne.jp
 124.16.103.182,N/A
-124.228.248.52,N/A
 124.72.89.243,243.89.72.124.broad.xm.fj.dynamic.163data.com.cn
 125.134.191.194,N/A
 125.136.186.30,N/A
@@ -220,6 +220,7 @@ ip,hostname
 160.238.243.88,160-238-243-88.host.worldnetfibra.com.br
 161.184.160.140,h161-184-160-140.ptr.cidc.telus.com
 161.35.190.221,kvm.barrettit.com;clanxie.life
+162.196.229.235,162-196-229-235.lightspeed.rcsntx.sbcglobal.net
 162.204.214.255,162-204-214-255.lightspeed.sntcca.sbcglobal.net
 162.234.2.214,162-234-2-214.lightspeed.sntcca.sbcglobal.net
 162.251.63.252,252-63-251-162.clients.gthost.com
@@ -259,7 +260,6 @@ ip,hostname
 174.141.203.179,174-141-203-179.fttp.usinternet.com
 174.164.89.141,c-174-164-89-141.hsd1.wa.comcast.net
 174.172.251.179,c-174-172-251-179.hsd1.md.comcast.net
-174.88.207.155,bras-base-hmtnon1485w-grc-22-174-88-207-155.dsl.bell.ca
 174.89.176.100,bras-base-ssvlon3970w-grc-03-174-89-176-100.dsl.bell.ca
 174.93.53.240,bras-base-blvlon2431w-grc-02-174-93-53-240.dsl.bell.ca
 174.94.64.198,bras-base-clbaon0207w-grc-14-174-94-64-198.dsl.bell.ca
@@ -283,6 +283,7 @@ ip,hostname
 176.61.12.84,N/A
 177.105.93.60,60.93.105.177.omegasul.com.br
 177.234.155.67,177-234-155-67.static.hostdime.com
+177.43.233.253,177.43.233.253.static.gvt.net.br
 177.81.213.1,b151d501.virtua.com.br
 178.105.87.67,clanxie.life;static.67.87.105.178.clients.your-server.de
 178.151.225.227,227.225.151.178.triolan.net
@@ -306,6 +307,7 @@ ip,hostname
 180.196.153.114,180-196-153-114.area57d.commufa.jp
 180.66.66.184,N/A
 180.66.71.228,N/A
+181.57.229.78,static-ip-1815722978.cable.net.co
 181.57.34.51,static-ip-181573451.cable.net.co
 182.253.170.255,N/A
 182.253.171.213,N/A
@@ -378,6 +380,7 @@ ip,hostname
 194.28.86.117,jetkvm1.hostsila.org
 194.44.16.250,N/A
 194.68.59.48,noptr.inleed.net
+194.8.156.147,ip-194-8-156-147.intelekt.cv.ua
 194.96.239.173,194-96-239-173.adsl.highway.telekom.at
 195.128.25.25,N/A
 195.130.109.106,N/A
@@ -397,7 +400,7 @@ ip,hostname
 197.51.135.213,N/A
 198.144.163.3,ipc690a303.ap.nuro.jp
 198.16.249.226,198-16-249-226.qc.ftth.ebox.net
-198.199.69.31,kvm.asi.nyc
+198.199.69.31,N/A
 198.254.94.160,host-198-254-94-160.valolt4.epbfi.com
 198.8.86.2,N/A
 199.102.204.198,199-102-204-198.cpe.axion.ca
@@ -424,7 +427,7 @@ ip,hostname
 204.93.180.146,unknown.scnet.net
 204.93.212.233,unknown.scnet.net
 204.93.212.234,spider1.ord6.servercentral.net
-205.251.100.201,aeromana.dmarc.lax3.amcbb.net;pikvm.lodginglab.org
+205.251.100.201,aeromana.dmarc.lax3.amcbb.net
 207.170.160.9,sp2.Logan.com
 207.66.79.54,N/A
 207.81.112.28,N/A
@@ -441,7 +444,6 @@ ip,hostname
 209.182.192.120,vps30266.inmotionhosting.com;vps91586.inmotionhosting.com
 209.182.192.122,kvmpilot2.inmotionhosting.com
 209.182.203.204,N/A
-209.216.83.35,sender29110.picsrv.net
 2.100.123.120,host-2-100-123-120.as13285.net
 210.204.42.176,N/A
 210.223.2.224,N/A
@@ -463,10 +465,13 @@ ip,hostname
 212.115.127.101,stratos-4.xtcwireless.net
 212.132.100.246,N/A
 212.180.189.27,N/A
+212.42.115.20,212-42-115-20.elcat.kg
 212.50.244.59,212.50.244.59.16clouds.com
 212.88.45.17,N/A
 212.92.86.67,host-94j.mdb1-a.v4.dfn.nl
+213.128.69.100,server-213.128.69.100.as42926.net
 213.136.57.5,h-213-136-57-5.A193.corp.bahnhof.se
+213.142.185.207,N/A
 213.168.181.195,fw.urbansw.cz
 213.169.83.238,lanet-pikvm.cl.lanet.online
 213.179.158.33,host-213-179-158-33.customer.m-online.net
@@ -493,7 +498,6 @@ ip,hostname
 218.146.138.215,N/A
 218.146.153.197,N/A
 218.150.76.210,N/A
-218.161.85.86,218-161-85-86.hinet-ip.hinet.net
 218.236.188.156,N/A
 218.252.181.74,cm218-252-181-74.hkcable.com.hk
 218.51.211.158,N/A
@@ -549,6 +553,7 @@ ip,hostname
 24.57.173.147,d24-57-173-147.home.cgocable.net
 24.73.124.164,syn-024-073-124-164.biz.spectrum.com
 27.254.145.150,N/A
+31.127.51.75,host31-127-51-75.range31-127.btcentralplus.com
 31.13.223.188,188.223.13.31.neterra.net
 31.16.114.99,ip1f107263.dynamic.kabel-deutschland.de
 31.17.145.223,ip1f1191df.dynamic.kabel-deutschland.de
@@ -571,14 +576,13 @@ ip,hostname
 38.82.9.201,N/A
 38.91.101.210,210-101-91-38.clients.gthost.com
 39.116.224.84,N/A
-39.164.37.186,N/A
 42.118.11.7,N/A
 42.119.37.4,N/A
 42.2.150.65,42-2-150-065.static.netvigator.com
-45.133.118.27,nanokvm.net;dynamic.45-133-118-27.ams1.qde.com
 45.153.112.97,N/A
 45.154.159.248,45-154-159-248.seasoncloud.com.br
 45.17.249.192,N/A
+46.110.17.233,unnamed-static.grtwmiaa.metronetinc.net
 46.114.140.2,dynamic-046-114-140-002.46.114.pool.telefonica.de
 46.124.126.53,046124126053.public.t-mobile.at
 46.142.163.129,129-163-142-46.pool.kielnet.net
@@ -600,6 +604,7 @@ ip,hostname
 47.184.118.30,47-184-118-30.dlls.tx.frontiernet.net
 47.186.113.93,47-186-113-93.dlls.tx.frontiernet.net
 47.186.232.126,47-186-232-126.fdr01.bnvl.tx.ip.frontiernet.net
+47.187.171.10,47-187-171-10.fdr03.plan.tx.ip.frontiernet.net
 47.195.117.189,47-195-117-189.fdr01.lutz.fl.frontiernet.net
 47.42.88.111,syn-047-042-088-111.res.spectrum.com
 47.49.137.86,syn-047-049-137-086.biz.spectrum.com
@@ -625,8 +630,8 @@ ip,hostname
 50.37.36.234,50-37-36-234.bng01.dvsn.mi.frontiernet.net
 50.47.232.189,50-47-232-189.evrt.wa.ptr.ziplyfiber.com
 50.92.188.138,d50-92-188-138.bchsia.telus.net
-5.10.223.130,N/A
 51.148.117.66,51-148-117-66.dsl.in-addr.zen.co.uk
+51.161.198.71,ns5010499.ip-51-161-198.net
 51.175.234.24,24.51-175-234.customer.lyse.net
 5.12.127.84,5-12-127-84.residential.rdsnet.ro
 51.250.111.25,N/A
@@ -672,7 +677,6 @@ ip,hostname
 60.251.60.197,60-251-60-197.hinet-ip.hinet.net
 61.158.127.69,N/A
 61.218.4.140,61-218-4-140.hinet-ip.hinet.net
-61.72.202.151,N/A
 61.72.204.91,N/A
 61.84.73.111,N/A
 62.149.31.201,ipkvm8.colocall.net
@@ -712,11 +716,11 @@ ip,hostname
 68.168.144.181,N/A
 68.198.59.155,ool-44c63b9b.dyn.optonline.net
 68.227.225.103,ip68-227-225-103.ph.ph.cox.net
+68.235.152.73,68-235-152-73.dynsouth.hsi.pldi.net
 68.235.154.86,68-235-154-86.dynsouth.hsi.pldi.net
 68.52.49.159,N/A
 68.60.188.168,c-68-60-188-168.hsd1.mi.comcast.net
 68.67.82.39,68-67-82-39.wavecable.com
-68.81.34.213,N/A
 68.95.175.196,N/A
 69.13.220.130,N/A
 69.14.127.250,d14-69-250-127.try.wideopenwest.com
@@ -736,7 +740,6 @@ ip,hostname
 70.24.3.251,bras-base-mrhmon2409w-grc-72-70-24-3-251.dsl.bell.ca
 70.24.59.24,bras-base-otwaon0819w-grc-52-70-24-59-24.dsl.bell.ca
 70.30.19.154,bras-base-kgtnon080bw-grc-34-70-30-19-154.dsl.bell.ca
-70.30.43.132,bras-base-kgtnon080bw-grc-32-70-30-43-132.dsl.bell.ca;bras-base-kgtnon080bw-grc-31-70-30-43-132.dsl.bell.ca
 70.30.43.155,bras-base-kgtnon080bw-grc-31-70-30-43-155.dsl.bell.ca;bras-base-kgtnon080bw-grc-32-70-30-43-155.dsl.bell.ca
 70.39.123.228,customer.sharktech.net
 70.50.213.217,bras-base-tnhlon4002w-grc-34-70-50-213-217.dsl.bell.ca
@@ -820,6 +823,7 @@ ip,hostname
 77.45.103.59,77-45-103-59.sta.asta-net.com.pl
 77.75.34.190,server-77.75.34.190.as42926.net
 77.93.199.99,77-93-199-99.static.masterinter.net
+78.125.129.69,69.129.125.78.rev.sfr.net
 78.42.170.197,ip-078-042-170-197.um17.pools.vodafone-ip.de
 78.43.158.217,ip-078-043-158-217.um18.pools.vodafone-ip.de
 79.100.95.231,79-100-95-231.ip.btc-net.bg
@@ -905,6 +909,7 @@ ip,hostname
 86.177.134.85,host86-177-134-85.range86-177.btcentralplus.com
 86.183.157.145,host86-183-157-145.range86-183.btcentralplus.com
 86.190.248.72,host86-190-248-72.range86-190.btcentralplus.com
+86.243.187.106,lfbn-str-1-227-106.w86-243.abo.wanadoo.fr
 86.52.112.122,86-52-112-122.norlyscustomer.net
 86.88.182.6,86-88-182-6.fixed.kpn.net
 87.106.162.176,ip87-106-162-176.pbiaas.com
@@ -921,6 +926,7 @@ ip,hostname
 88.195.78.205,iptv-mlibng12-58c34e-205.dhcp.inet.fi
 88.205.30.11,N/A
 88.89.149.196,585995c4.bb.online.no
+88.89.54.91,5859365b.bb.online.no
 89.143.61.159,BSN-143-61-159.dynamic.siol.net
 89.144.32.200,89-144-32-200.epichost.pl
 89.149.232.22,89.149.232.20
