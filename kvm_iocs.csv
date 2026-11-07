@@ -74,7 +74,6 @@ ip,hostname
 108.31.159.171,pool-108-31-159-171.washdc.fios.verizon.net
 108.35.85.144,pool-108-35-85-144.nwrknj.fios.verizon.net
 108.36.218.213,pool-108-36-218-213.phlapa.fios.verizon.net
-108.49.77.24,pool-108-49-77-24.bstnma.fios.verizon.net
 108.52.53.18,pool-108-52-53-18.phlapa.fios.verizon.net
 108.56.221.237,pool-108-56-221-237.washdc.fios.verizon.net
 108.60.58.12,N/A
@@ -119,7 +118,6 @@ ip,hostname
 112.82.239.150,N/A
 113.102.33.8,N/A
 113.28.149.135,113-28-149-135.static.imsbiz.com
-113.58.190.79,N/A
 113.67.179.132,N/A
 113.68.24.71,N/A
 114.103.20.154,N/A
@@ -134,6 +132,7 @@ ip,hostname
 115.57.206.181,hn.kd.ny.adsl
 115.58.206.95,hn.kd.ny.adsl
 116.103.105.69,N/A
+116.148.252.115,N/A
 116.231.168.147,N/A
 116.231.171.108,N/A
 116.237.93.3,ddns.xingdp.site
@@ -150,7 +149,6 @@ ip,hostname
 117.147.111.168,N/A
 117.176.117.137,N/A
 1.173.137.54,1-173-137-54.dynamic-ip.hinet.net
-1.173.145.190,1-173-145-190.dynamic-ip.hinet.net
 1.173.173.181,1-173-173-181.dynamic-ip.hinet.net
 1.173.190.54,1-173-190-54.dynamic-ip.hinet.net
 117.67.190.134,N/A
@@ -281,10 +279,11 @@ ip,hostname
 136.60.192.229,136-60-192-229.googlefiber.net
 136.62.104.87,136-62-104-87.googlefiber.net
 136.62.210.26,136-62-210-26.googlefiber.net
+137.74.230.28,rkvm.xeion.de
 139.138.221.226,N/A
-139.227.61.62,N/A
 139.30.255.211,N/A
 139.94.159.55,N/A
+140.112.152.155,pc152-155.projoffice.ntu.edu.tw
 141.2.163.40,pikvm.fb01.uni-frankfurt.de
 141.224.222.60,host-vj.lies-w1d1-d.v4.dfn.nl
 141.255.151.114,141-255-151-114.Reboot-Conseil.cust.as29075.net
@@ -341,11 +340,9 @@ ip,hostname
 149.40.248.154,N/A
 149.50.252.155,hosted-by.veganet.com.tr
 149.86.76.66,N/A
-150.136.117.14,clanxie.life
 150.203.138.145,N/A
 150.203.138.174,N/A
 151.12.169.140,N/A
-151.198.54.123,pool-151-198-54-123.nwrknj.fios.verizon.net
 151.242.127.121,N/A
 151.242.227.114,N/A
 151.249.104.188,gw.iveritas.eu
@@ -418,6 +415,7 @@ ip,hostname
 169.229.139.204,kvm.gspp.berkeley.edu
 169.58.199.10,mail.arthurassethq.com
 170.9.21.216,N/A
+171.113.114.35,N/A
 171.216.83.136,N/A
 171.247.33.50,dynamic-ip-adsl.viettel.vn
 171.247.47.105,dynamic-ip-adsl.viettel.vn
@@ -530,6 +528,7 @@ ip,hostname
 184.169.123.96,184-169-123-96-dynamic.midco.net
 184.176.129.71,wsip-184-176-129-71.ph.ph.cox.net
 184.176.130.71,wsip-184-176-130-71.ph.ph.cox.net
+184.189.125.56,wsip-184-189-125-56.oc.oc.cox.net
 185.115.73.102,102.73.115.185.yellowip.eu
 185.13.46.2,N/A
 185.154.9.250,250.9.154.185-avatel.es
@@ -609,7 +608,6 @@ ip,hostname
 195.211.102.51,ipkvm15.datacheap.ru
 195.224.68.49,N/A
 195.251.111.118,psycho-107.ionio.gr;pikvm.literate-performance.org
-195.32.10.95,host95-10-32-195.dimensionesrl.eu
 195.64.182.98,N/A
 195.64.231.201,ip-231-201.visti.net
 195.72.166.131,N/A
@@ -789,8 +787,8 @@ ip,hostname
 221.146.21.232,N/A
 221.147.171.4,N/A
 221.148.214.193,N/A
+221.151.143.142,N/A
 221.154.199.48,N/A
-221.158.208.48,N/A
 221.160.135.226,kvm.rhkr8521.com
 221.162.46.22,N/A
 221.163.137.157,N/A
@@ -804,7 +802,6 @@ ip,hostname
 222.118.56.79,N/A
 222.121.100.119,N/A
 222.129.32.97,N/A
-222.137.100.83,hn.kd.ny.adsl
 222.140.196.130,jzu.hikaricraft.cn;hn.kd.ny.adsl
 222.141.46.137,hn.kd.ny.adsl
 222.187.176.111,N/A
@@ -888,7 +885,6 @@ ip,hostname
 36.239.72.156,36-239-72-156.dynamic-ip.hinet.net
 36.239.76.229,36-239-76-229.dynamic-ip.hinet.net
 36.239.93.181,36-239-93-181.dynamic-ip.hinet.net
-36.248.83.88,N/A
 36.249.142.42,N/A
 36.249.142.55,N/A
 36.255.43.107,N/A
@@ -956,6 +952,7 @@ ip,hostname
 46.98.8.54,54.8.PPPoE.fregat.ua
 47.101.223.187,N/A
 47.107.250.217,glkvm.cn
+47.107.38.56,glkvm.cn
 47.115.55.70,api.47.115.55.70.sslip.io;app.47.115.55.70.sslip.io
 47.117.120.9,N/A
 47.146.169.140,47-146-169-140.fdr01.hnbh.ca.ip.frontiernet.net
@@ -970,6 +967,7 @@ ip,hostname
 47.180.83.69,static-47-180-83-69.lsan.ca.frontiernet.net
 47.184.118.30,47-184-118-30.dlls.tx.frontiernet.net
 47.186.113.93,47-186-113-93.dlls.tx.frontiernet.net
+47.186.222.210,47-186-222-210.fdr01.dntn.tx.ip.frontiernet.net
 47.187.185.18,47-187-185-18.fdr03.plan.tx.ip.frontiernet.net
 47.189.231.251,47-189-231-251.fdr01.bnvl.tx.ip.frontiernet.net
 47.189.78.29,47-189-78-29.fdr01.bnvl.tx.ip.frontiernet.net
@@ -1020,6 +1018,7 @@ ip,hostname
 58.122.244.246,N/A
 58.136.92.32,N/A
 58.190.18.250,58-190-18-250f1.kyt1.eonet.ne.jp
+5.89.118.110,net-5-89-118-110.cust.vodafonedsl.it
 59.10.247.252,kvm.hcho.fyi
 59.110.160.18,N/A
 59.124.65.201,59-124-65-201.hinet-ip.hinet.net
@@ -1097,7 +1096,6 @@ ip,hostname
 67.173.94.211,N/A
 67.191.221.68,c-67-191-221-68.hsd1.ga.comcast.net
 67.193.45.162,d67-193-45-162.home3.cgocable.net
-67.197.166.9,telaax.com;67-197-166-9.fttp.rkhlsc.dyn.comporium.net
 67.208.54.121,N/A
 67.208.54.192,nk.r5k.page
 67.211.134.213,67-211-134-213.chinquapin.dmt.ntelos.net
@@ -1266,7 +1264,6 @@ ip,hostname
 80.92.211.234,pppoe-saratov01-80.92.211.234.overta.ru
 81.109.136.84,heme-13-b2-v4wan-167799-cust83.vm32.cable.virginm.net
 81.143.213.123,host81-143-213-123.in-addr.btopenworld.com
-81.150.87.148,host81-150-87-148.in-addr.btopenworld.com
 81.153.227.0,host81-153-227-0.range81-153.btcentralplus.com
 81.170.148.177,h-81-170-148-177.A465.priv.bahnhof.se
 81.172.187.59,host-qj.pes-w1d1-a.v4.dfn.nl
@@ -1275,7 +1272,6 @@ ip,hostname
 81.183.238.235,budkvm.jasontresize.net
 81.196.195.186,81-196-195-186.rdsnet.ro
 81.252.150.105,auvimail.auvitec.fr
-8.137.92.87,clanxie.life
 8.141.84.192,clanxie.life
 8.148.71.95,N/A
 81.77.120.207,N/A
@@ -1342,7 +1338,6 @@ ip,hostname
 85.92.65.54,as29550.net
 86.121.241.228,86-121-241-228.pitesti.rdsnet.ro
 86.127.15.172,static-86-127-15-172.rdsnet.ro
-86.127.4.68,static-86-127-4-68.rdsnet.ro
 86.130.101.249,host86-130-101-249.range86-130.btcentralplus.com
 86.167.204.84,host86-167-204-84.range86-167.btcentralplus.com
 86.178.196.27,host86-178-196-27.range86-178.btcentralplus.com
@@ -1354,7 +1349,6 @@ ip,hostname
 86.88.182.6,86-88-182-6.fixed.kpn.net
 87.106.162.176,ip87-106-162-176.pbiaas.com
 87.123.118.247,i577B76F7.versanet.de
-87.123.119.171,i577B77AB.versanet.de
 87.161.20.2,p57a11402.dip0.t-ipconnect.de
 87.170.218.81,p57aada51.dip0.t-ipconnect.de
 87.177.114.128,p57b17280.dip0.t-ipconnect.de
