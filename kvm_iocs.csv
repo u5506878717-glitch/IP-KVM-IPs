@@ -7,9 +7,11 @@ ip,hostname
 101.99.88.61,server1.kamon.la
 101.99.89.193,server1.kamon.la
 101.99.89.67,server1.kamon.la
+101.99.89.97,server1.kamon.la
 103.112.185.112,N/A
 103.13.30.141,N/A
 103.142.150.130,N/A
+103.142.150.150,N/A
 103.153.176.220,103-153-176-220.as131657.net
 103.16.100.2,node103161002.ipptr.com
 103.195.238.3,N/A
@@ -33,7 +35,6 @@ ip,hostname
 104.218.221.254,N/A
 104.225.250.146,hosted-by.fiberhub.com
 104.225.251.26,104-225-251-hosted-by.fiberhub.com
-104.229.61.13,voltagebajataco.com;syn-104-229-061-013.res.spectrum.com
 104.234.224.221,104-234-224-221.dedicado.bbhost.com.br
 104.234.254.198,N/A
 104.247.178.209,104.247.178.209.marsdatacenter.net
@@ -84,8 +85,8 @@ ip,hostname
 109.173.160.252,d160-252.icpnet.pl
 109.220.242.229,lfbn-tou-1-1651-229.w109-220.abo.wanadoo.fr
 109.250.16.142,i6DFA108E.versanet.de
-109.250.16.184,i6DFA10B8.versanet.de
 109.250.16.9,i6DFA1009.versanet.de
+109.250.36.51,i6DFA2433.versanet.de
 109.250.37.159,i6DFA259F.versanet.de
 109.255.90.13,kvm.mmauro.page
 109.66.99.4,N/A
@@ -98,6 +99,7 @@ ip,hostname
 111.227.186.9,N/A
 111.254.70.178,111-254-70-178.dynamic-ip.hinet.net
 111.26.109.75,N/A
+111.42.6.161,N/A
 111.90.140.118,server1.kamon.la
 111.90.141.101,server1.kamon.la
 111.90.141.151,server1.kamon.la
@@ -148,6 +150,7 @@ ip,hostname
 117.67.190.134,N/A
 118.122.10.29,N/A
 118.172.49.170,node-9t6.pool-118-172.dynamic.nt-isp.net
+118.172.49.6,node-9om.pool-118-172.dynamic.nt-isp.net
 118.172.49.62,node-9q6.pool-118-172.dynamic.nt-isp.net
 118.189.20.162,162.20.189.118.static.m1net.com.sg
 118.32.10.172,N/A
@@ -287,7 +290,6 @@ ip,hostname
 14.215.162.114,r1-guangzhou-dev.glkvm.cn
 14.215.162.120,N/A
 14.215.162.195,N/A
-142.181.55.226,N/A
 142.198.186.88,bras-base-oshwon9537w-grc-23-142-198-186-88.dsl.bell.ca
 142.198.232.64,bras-base-toroon4859w-grc-36-142-198-232-64.dsl.bell.ca
 14.22.113.179,N/A
@@ -304,6 +306,7 @@ ip,hostname
 143.92.129.170,N/A
 144.208.72.200,www.kvm78ujo7.remoteaccess.inmotionhosting.com;kvm78ujo7.remoteaccess.inmotionhosting.com
 144.31.46.254,N/A
+144.6.118.107,N/A
 144.64.186.147,bl23-186-147.dsl.telepac.pt
 14.48.152.103,N/A
 144.86.25.30,N/A
@@ -334,7 +337,6 @@ ip,hostname
 149.50.252.155,hosted-by.veganet.com.tr
 149.86.76.66,N/A
 150.203.138.145,N/A
-151.12.169.140,N/A
 151.242.127.121,N/A
 151.242.227.114,N/A
 151.249.104.188,gw.iveritas.eu
@@ -444,7 +446,6 @@ ip,hostname
 175.11.143.41,N/A
 175.116.200.30,N/A
 175.116.62.7,N/A
-175.117.110.176,N/A
 175.120.190.43,N/A
 175.152.115.26,N/A
 175.207.168.93,N/A
@@ -576,6 +577,7 @@ ip,hostname
 190.55.187.208,cpe-190-55-187-208.telecentro-reversos.com.ar
 191.96.91.137,gl-cloud.kvm.as214347.net
 192.157.88.86,N/A
+192.159.198.233,192-159-198-233.pldi.net
 192.162.245.146,ipkvm13.datacheap.ru
 192.162.245.149,ipkvm11.datacheap.ru
 192.214.117.52,securemustique.com
@@ -707,7 +709,6 @@ ip,hostname
 211.46.231.213,N/A
 211.48.60.133,N/A
 211.51.175.73,N/A
-211.63.156.231,N/A
 211.76.176.232,211-76-176-232.dynamic-ip.pni.tw
 211.76.176.233,211-76-176-233.dynamic-ip.pni.tw
 212.114.31.56,235128847.box.freepro.com
@@ -758,7 +759,6 @@ ip,hostname
 218.103.127.12,218-103-127-012.static.netvigator.com
 218.146.138.215,N/A
 218.147.41.20,N/A
-218.153.229.96,N/A
 218.161.85.86,218-161-85-86.hinet-ip.hinet.net
 218.252.181.74,cm218-252-181-74.hkcable.com.hk
 218.255.83.82,static.reserve.wtt.net.hk
@@ -846,6 +846,7 @@ ip,hostname
 2.56.111.100,N/A
 2.56.111.5,N/A
 2.59.184.150,2.59.184.150.static.dhcp.nemnet.dk
+2.66.80.203,2.66.80.203.mobile.tre.se;glkvm.tail8d9733.ts.net
 2.68.159.60,glkvm.tail8d9733.ts.net;2.68.159.60.mobile.tre.se
 27.102.73.254,N/A
 2.71.250.97,glkvm.tail8d9733.ts.net;2.71.250.97.mobile.tre.se
@@ -936,6 +937,7 @@ ip,hostname
 46.142.224.109,109-224-142-46.pool.kielnet.net;pikvm-flodata.ddns.net
 46.142.224.72,72-224-142-46.pool.kielnet.net;pikvm-flodata.ddns.net
 46.142.225.144,144-225-142-46.pool.kielnet.net;pikvm-flodata.ddns.net
+46.142.225.67,pikvm-flodata.ddns.net;67-225-142-46.pool.kielnet.net
 46.157.233.117,46.157.233.117.tmi.telenormobil.no
 46.161.123.162,adsl-46-161-123162.crnagora.net
 46.227.59.108,N/A
@@ -1013,6 +1015,7 @@ ip,hostname
 58.190.18.250,58-190-18-250f1.kyt1.eonet.ne.jp
 58.21.190.210,210.190.21.58.adsl-pool.jlccptt.net.cn
 5.89.118.110,net-5-89-118-110.cust.vodafonedsl.it
+5.89.118.137,net-5-89-118-137.cust.vodafonedsl.it
 59.10.247.252,kvm.hcho.fyi
 59.110.160.18,N/A
 59.1.24.222,N/A
@@ -1037,6 +1040,7 @@ ip,hostname
 5.94.196.51,net-5-94-196-51.cust.vodafonedsl.it
 59.5.180.3,N/A
 59.5.208.197,N/A
+59.6.116.137,N/A
 60.219.197.115,N/A
 60.227.46.132,cpe-60-227-46-132.nb01.nsw.asp.telstra.net
 60.227.54.79,cpe-60-227-54-79.nb01.nsw.asp.telstra.net
@@ -1049,14 +1053,12 @@ ip,hostname
 61.218.4.130,61-218-4-130.hinet-ip.hinet.net
 61.220.140.183,61-220-140-183.hinet-ip.hinet.net
 61.84.73.111,N/A
-62.149.31.198,ipkvm4.colocall.net
 62.149.31.201,ipkvm8.colocall.net
 62.149.9.192,mail.makatun.org;glkvm.makatun.net
 62.1.89.243,62.1.89.243.dsl.dyn.forthnet.gr
 62.212.180.70,SLAVE.glafo.at
 62.217.187.72,N/A
 62.228.129.137,62-129-137.netrun.cytanet.com.cy
-62.38.248.228,static062038248228.dsl.hol.gr
 63.131.236.7,63.131.236-7.ptr.tierpoint.com
 64.118.129.243,N/A
 64.147.0.29,wsip-64-147-0-29.oc.oc.cox.net
@@ -1188,6 +1190,7 @@ ip,hostname
 75.72.16.210,c-75-72-16-210.hsd1.mn.comcast.net
 76.106.246.154,N/A
 76.142.0.40,c-76-142-0-40.hsd1.tx.comcast.net
+76.14.25.87,76-14-25-87.sf-cable.astound.net
 76.169.6.88,syn-076-169-006-088.res.spectrum.com
 76.169.79.194,syn-076-169-079-194.res.spectrum.com
 76.186.135.65,syn-076-186-135-065.res.spectrum.com
@@ -1298,7 +1301,6 @@ ip,hostname
 83.8.47.22,83.8.47.22.ipv4.supernova.orange.pl
 84.112.48.233,84-112-48-233.cable.dynamic.surfer.at
 84.113.18.252,84-113-18-252.cable.dynamic.surfer.at
-84.1.168.17,5401A811.dsl.pool.telekom.hu
 84.118.208.238,iiu7o06zh6bfvvwe.myfritz.net;ip-084-118-208-238.um23.pools.vodafone-ip.de
 84.182.136.191,p54b688bf.dip0.t-ipconnect.de
 84.196.133.9,d54C48509.access.telenet.be
@@ -1360,6 +1362,8 @@ ip,hostname
 89.177.199.58,ip-89-177-199-58.bb.vodafone.cz
 89.19.177.198,N/A
 89.22.53.120,N/A
+89.246.48.183,i59F630B7.versanet.de
+89.25.132.151,ip-89-25-132-151.static.play.pl
 89.44.11.25,N/A
 89.45.186.13,N/A
 89.70.124.182,89-70-124-182.dynamic.play.pl
@@ -1465,7 +1469,6 @@ ip,hostname
 96.9.210.25,N/A
 96.92.245.82,C22hosting.com
 96.94.122.125,N/A
-97.113.58.80,97-113-58-80.tukw.qwest.net
 97.120.130.216,97-120-130-216.ptld.qwest.net
 97.120.132.39,97-120-132-39.ptld.qwest.net
 97.120.134.185,97-120-134-185.ptld.qwest.net
